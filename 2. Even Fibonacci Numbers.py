@@ -5,7 +5,6 @@ ans = 2
 
 while t < 4000000:
     t = t1 + t2
-    print (t)
     
     if (t % 2 == 0):
         ans += t
